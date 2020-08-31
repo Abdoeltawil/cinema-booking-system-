@@ -1,0 +1,16 @@
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\bin\Debug\Cinemaaa.exe.config
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\bin\Debug\Cinemaaa.exe
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\bin\Debug\Cinemaaa.pdb
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.csprojAssemblyReference.cache
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.Form1.resources
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.Properties.Resources.resources
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.csproj.GenerateResource.cache
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.csproj.CopyComplete
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.exe
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.pdb
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.Coming.resources
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.Bar.resources
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.Dir.resources
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.Film.resources
+E:\abdullah\pro2\Cinemaaa\Cinemaaa\obj\Debug\Cinemaaa.Buy.resources
